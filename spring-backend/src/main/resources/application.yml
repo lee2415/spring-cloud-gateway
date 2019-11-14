@@ -1,0 +1,7 @@
+server:
+  port: 8090
+
+
+logging:
+  level:
+    com.leel2415.springbackend: debug

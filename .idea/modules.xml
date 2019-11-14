@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-backend/spring-backend.iml" filepath="$PROJECT_DIR$/spring-backend/spring-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-backend/spring-frontend.iml" filepath="$PROJECT_DIR$/spring-backend/spring-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-frontend/spring-frontends.iml" filepath="$PROJECT_DIR$/spring-frontend/spring-frontends.iml" />
+    </modules>
+  </component>
+</project>
